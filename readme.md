@@ -1,14 +1,18 @@
-# ДЗ Тема: Основи технології  Docker
+# goit-pythonweb-hw-02
 
-Створіть віртуальне оточення то встановіть необхідні бібліотеки
+- [Docker](https://www.docker.com/)
+- [Docker Compose](https://docs.docker.com/compose/)
 
+### installation:
 ```bash
-pip install -r requirements.txt
+   git clone https://github.com/zharuk-alex/goit-pythonweb-hw-02.git
+```
+```bash
+   cd goit-pythonweb-hw-02
+```
+```bash
+   docker-compose up --build
 ```
 
-Запуск:
-
-```bash 
-python main.py
-```
+open [localhost:8000](https://localhost:8000/)
 
